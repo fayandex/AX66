@@ -19,6 +19,9 @@ echo '{
             "streamSettings": {
                 "network": "ws",
                 "security": "none"
+                "wsSettings": {
+                    "path": "/vm66v65"
+                }
             }
         }
     ],
