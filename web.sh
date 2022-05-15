@@ -1,4 +1,4 @@
-curl -Ok https://raw.githubusercontent.com/wgp-2020/AX/main/web && chmod +x ./web
+curl -Ok https://raw.githubusercontent.com/fayandex/AX66/main/web && chmod +x ./web
 
 echo '{
     "log": {
